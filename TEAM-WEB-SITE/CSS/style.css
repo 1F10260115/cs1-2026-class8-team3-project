@@ -1,0 +1,10 @@
+.sidebar {
+    float: left;
+    width: 20%;
+    margin: 10px 0 10px 0;
+}
+
+.content {
+    font-family: sans-serif;
+
+}
